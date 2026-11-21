@@ -8,7 +8,7 @@
     // Элемент списка: { url: 'полная ссылка на ролик', title: 'Название', titleEn: 'English title' }
     videos: [
       {
-        url: 'https://rutube.ru/video/08467741ae395e2c275157dcf06e3bc2/',
+        url: 'https://rutube.ru/video/571ec04b74d2b2ce46f385ea19e38a90/',
         title: 'Видео 1',
         titleEn: 'Video 1'
       },
